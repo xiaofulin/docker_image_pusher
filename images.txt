@@ -1,4 +1,1 @@
-redhat/ubi8-minimal:latest
-oraclelinux:9-slim-fips
-amazon/amazon-ecs-sample:latest
-photon:latest
+dockette/nodejs:v17
