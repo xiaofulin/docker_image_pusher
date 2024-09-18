@@ -1,1 +1,1 @@
-dockette/nodejs:v17
+mysql:oraclelinux9
