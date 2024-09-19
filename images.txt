@@ -1,1 +1,1 @@
-mongo
+postgres:bullseye
