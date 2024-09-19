@@ -1,1 +1,1 @@
-shadowsocks/shadowsocks-libev
+redis
