@@ -1,1 +1,1 @@
-mysql:oraclelinux9
+rsyslog/syslog_appliance_alpine
