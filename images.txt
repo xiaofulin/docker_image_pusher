@@ -1,1 +1,1 @@
-ochinchina/supervisord
+shadowsocks/shadowsocks-libev
